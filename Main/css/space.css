@@ -1,0 +1,203 @@
+/* @import"../css/styles.css" */
+
+
+
+#showcase {
+background-color: #DEDEDE;
+height: 34.4rem;
+
+}
+
+#showcase .container-1 {
+/* width: 100%;   */
+display:flex;
+justify-content: space-around;
+position:relative;
+bottom:1rem;
+right:6rem;
+padding:auto;
+margin:auto;
+
+}
+
+
+#showcase .container-1 img {
+height: 550px;
+position:relative;
+top:1rem;
+padding-top: 0.5rem;
+margin-left: 13rem;
+}
+
+.content {
+align-self: center;
+/* width: 20rem; */
+position: relative;
+/* padding:1rem; */
+height: 10rem;
+
+ 
+}
+
+  
+
+ 
+.text h1 {
+font-size:3rem;
+font-weight: 400;
+
+} 
+
+
+
+ .p-1 {
+
+ font-size: 1rem;
+ padding-top: 1rem;
+ padding-right: none;
+ display: flex;
+ text-align: left!important;
+ display: inline;
+ margin-top: 13rem;
+ font-family:'Roboto', sans-serif;
+ 
+}  
+
+.btn-1 {
+background-color:#25E6C8;
+color: white;
+padding: 1.2rem 4rem;
+border-radius: 0.5rem;
+border: 1px solid transparent;
+outline: none;
+cursor:pointer;
+display: inline-block;
+font-weight:600;
+margin-top:2rem;
+font-size:1rem;
+font-family:'Roboto', sans-serif;
+
+}
+
+.btn-1:hover {
+   background-color:#2baaec;
+}
+
+.hamburger {
+position: relative;
+top:4rem;
+font-size:2rem;
+height:1.5rem;
+width:1.5rem;
+background-color:transparent;
+color:#2BAAEC ;
+border: none;
+padding: none;
+/* display:none; */
+}
+
+
+
+
+   
+
+/* About us CSS */
+
+
+#about-us {
+ height: 26.4rem;
+
+}
+#about-us .section-2 img {
+width: 400px;
+height: 700px;
+padding-top: 4rem;
+/* margin-right: 20rem; */
+position: relative;
+right:7rem;
+bottom:-1rem
+
+}
+
+
+#about-us .bar {
+background-color: #25E6C8;
+/* width: 55.0rem; */
+height: 0.2rem;
+border:none;
+margin-right: 3rem;
+margin-bottom:3rem;
+
+}
+
+ #about-us .section-2 {
+display:flex;
+justify-content: space-around;
+
+
+}
+
+
+ #about-us .container-2 {
+/* margin-right: 100rem; */
+/* background-color:blueviolet; */
+/* margin-right: 7rem; */
+align-self: center;
+/* text-align:center; */
+padding:12rem;
+position: relative;
+left:5.5rem;
+bottom:3rem;
+
+/* height: 700px; */
+ /* margin: 30rem; */
+ margin-top:  0.05rem;
+}
+
+
+.p-flex span {
+ color: #2BAAEC;
+    
+}
+.text-2 h1 {
+  font-size:2.5rem;
+}
+
+
+ #about-us .p-2 {
+
+ font-size: 1rem;
+ padding-top: 1rem;
+ padding-right: 0.2rem;
+ display: flex;
+ text-align: center;
+ display: inline;
+ margin-bottom: 13rem;
+ color:#626262;
+ font-family:'Roboto', sans-serif;
+
+}
+
+#about-us h1 {
+margin-bottom:1.3rem;
+
+}
+
+#about-us .p-flex {
+display: flex;
+/* display: block; */
+padding-top: 2rem;
+}
+
+
+.p-flex p {
+font-size: 0.9rem;
+color:#363636 ;
+margin-right: 2rem;
+position: relative;
+/* right: 0.1rem; */
+/* right: 4rem; */
+
+/* display: inline; */
+}
+
